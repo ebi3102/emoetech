@@ -1,6 +1,6 @@
 const Button = () => {
     return (
-    <div>
+    <div className="bg-slate-200 p-3 rounded-sm	text">
         <button>Login</button>
     </div>
     );
