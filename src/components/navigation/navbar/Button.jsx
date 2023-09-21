@@ -1,9 +1,6 @@
 const Button = () => {
     return (
-    <div className="bg-slate-200 p-3 rounded-sm	text">
-        <button>Login</button>
-    </div>
+      <button className="h-12 rounded-lg bg-white font-bold px-5 m-3">Sign In</button>
     );
   };
-  
   export default Button;
