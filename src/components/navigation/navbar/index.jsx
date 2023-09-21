@@ -26,7 +26,9 @@ const Navbar = () => {
                 </Link>
               </li>
             </ul>
-            <Button />
+            <div className="hidden md:block">
+              <Button />
+            </div>
           </div>
         </div>
       </div>
